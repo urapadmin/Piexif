@@ -1,3 +1,5 @@
+- not maintained anymore, so this is our own fork.
+
 Piexif
 ======
 
